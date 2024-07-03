@@ -4,6 +4,7 @@
     "version": "1.0",
     "description": "Set CORS headers for specific domains.",
     "permissions": [
+        "storage",
         "webRequest",
         "webRequestBlocking",
         "<all_urls>"
